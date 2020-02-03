@@ -4,8 +4,8 @@ title: "Introducing Python"
 
 * [Slides](Python_forRBAC.pdf)
 * Python Notebooks
-    1. Basic Programming in Python (<a href="Basic_Programming.ipynb" download="Basic_Programming.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/drive/1SVjRXxwdFplaEbNYveo3moNjrIsA-G0M) )
-    2. Financial Data Analysis with Pandas (<a href="Financial_Data_Analysis_inPython.ipynb" download="Financial_Data_Analysis_inPython.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/drive/1s9k1oD6xjyDdSNVbhiWhz1ktYTelQTBe#scrollTo=nKHcLRtTX2e9) )
+    1. Basic Programming in Python (<a href="Basic_Programming_inPython.ipynb" download="Basic_Programming_inPython.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github.com/tdmdal/pythonRBAC-workshop/blob/master/Basic_Programming.ipynb) )
+    2. Financial Data Analysis with Pandas (<a href="Financial_Data_Analysis_withPandas.ipynb" download="Financial_Data_Analysis_withPandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github.com/tdmdal/pythonRBAC-workshop/blob/master/Financial_Data_Analysis_inPython.ipynb) )
 
 * Data 
     1. Companies by Revenue (<a href="companies_by_revenue.csv" download="companies_by_revenue.csv">Download ) 
